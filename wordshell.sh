@@ -4,7 +4,7 @@ figlet DARKHEAVEN
 sleep 6
 echo $blue." Code BY DARKHEAVEN ";
 sleep 4
-echo $Red." GENARATING WORDLIST FOR YOU";                                                                                            
+echo $Red." GENARATING WORDLIST FOR YOU ";                                                                                            
 sleep 4
                                                                      
 
